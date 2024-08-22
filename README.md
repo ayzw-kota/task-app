@@ -35,7 +35,7 @@
 
 3. **アプリケーションを実行**:
    ```
-   java -jar target/task-management-app-0.0.1-SNAPSHOT.jar
+   java -jar jarファイル
    ```
 
 4. **アプリケーションにアクセス**:ブラウザを開き、`http://localhost:8080` にアクセスしてください。
